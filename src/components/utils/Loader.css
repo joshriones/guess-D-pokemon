@@ -1,0 +1,16 @@
+.loader-img {
+  height: 4rem;
+  width: 4rem;
+  margin: 15rem 15rem 10rem 15rem;
+
+  animation: rotate 0.3s linear infinite;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,23 @@
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.animating-text {
+  font-size: 2.2rem;
+  color: #f49ead;
+}
+
+.cursor {
+  display: inline-block;
+  width: 2px;
+  height: 2.4rem;
+  margin-left: 2px;
+  background-color: #f49ead;
+  animation: blink 0.5s step-end infinite;
+}

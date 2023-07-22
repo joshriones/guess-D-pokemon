@@ -1,0 +1,24 @@
+@import url("https://fonts.cdnfonts.com/css/pokemon-solid");
+
+header {
+  text-align: center;
+}
+
+header img {
+  max-width: 60rem;
+  padding: 2rem 4rem;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  animation: scaleAnimation 2s infinite alternate;
+  margin-top: 2rem;
+}
+
+@keyframes scaleAnimation {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
