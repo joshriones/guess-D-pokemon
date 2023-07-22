@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/guess-D-pokemon/static/css/main.2abff904.css",
+    "main.js": "/guess-D-pokemon/static/js/main.2ad86586.js",
+    "static/media/pokemonbg.png": "/guess-D-pokemon/static/media/pokemonbg.b715d1a8311b8accca76.png",
+    "static/media/homepagebg.jpeg": "/guess-D-pokemon/static/media/homepagebg.b5e4baf5e89425a02548.jpeg",
+    "static/media/pngwing.com.png": "/guess-D-pokemon/static/media/pngwing.com.2c45a54898b14540388a.png",
+    "static/media/headerIMg.png": "/guess-D-pokemon/static/media/headerIMg.ac6e86e8d75256b4d27d.png",
+    "static/media/PKMN RBYGSC.ttf": "/guess-D-pokemon/static/media/PKMN RBYGSC.1347322441bef0ee3709.ttf",
+    "index.html": "/guess-D-pokemon/index.html",
+    "main.2abff904.css.map": "/guess-D-pokemon/static/css/main.2abff904.css.map",
+    "main.2ad86586.js.map": "/guess-D-pokemon/static/js/main.2ad86586.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2abff904.css",
+    "static/js/main.2ad86586.js"
+  ]
+}
